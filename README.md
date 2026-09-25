@@ -1,3 +1,5 @@
+<img height="400" alt="WLRI Repack" src="https://github.com/user-attachments/assets/fca6ef70-2007-4e1e-b0d5-2e9e00d8f1e0" />
+
 # :arrow_forward: WLRI Repack (Full Game in English)
 
 This is the **full game, already translated into English**. Use this when you don't have the game.
